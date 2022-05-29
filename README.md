@@ -2,5 +2,5 @@
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Computer Vision
 - 
-[![](https://github.com/FerJeffQ/FerJeffQ/blob/main/brain.gif)]
+![](https://github.com/FerJeffQ/FerJeffQ/blob/main/brain.gif)
 
