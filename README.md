@@ -17,4 +17,4 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
 - 🌱 Improve my skills of Data structures.
 - 💬 Ask me about Data Scientist and Machine Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerJeffQ&theme=dracula)](https://github.com/FerJeffQ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerJeffQ&hide_progress=true&theme=dracula)
