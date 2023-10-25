@@ -5,7 +5,7 @@ My name is Fernando and I'm originally from Ecuador.
 I am an Electronic Engineer and I have experience with Web development, it is one of my biggest passions. 
 I have a master degree in Artificial Intelligence, I focused on computer vision. 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FerJeffQ&show_icons=true&theme=dracula&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FerjeffQ&show_icons=true&theme=dracula&count_private=true)
 
 ### Get in touch around the Web 🌎:
 
