@@ -9,7 +9,7 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
 
 ### Get in touch around the Web 🌎:
 
-- 📺 I like to share knowledge on my [YouTube](https://www.youtube.com/@nerocoders) channel 
+- 📺 I like to share knowledge on my [YouTube](https://www.youtube.com/@nerocode) channel 
 - 🐦 Writing ideas and useful information on [Twitter](https://twitter.com/Ferjeff11)
 
 ### A little more 🤓
