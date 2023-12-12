@@ -37,6 +37,10 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       <br /><strong>MongoDB</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="48" height="48" alt="Ros" />
+      <br /><strong>ROS</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -59,6 +63,11 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       <br /><strong>Kubernetes</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry" />
+      <br /><strong>Raspberry</strong>
+    </td>
+    
   </tr>
 </table>
 
