@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏼
+# ¡Hola! <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="justify">
 My name is Fernando and I'm originally from Ecuador.
