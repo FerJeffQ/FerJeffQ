@@ -8,7 +8,7 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/fernando-j-quisaguano-paredes-958a17267"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/fernando-j-quisaguano-paredes-958a17267"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="maito:ferjeff92@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
  
 
