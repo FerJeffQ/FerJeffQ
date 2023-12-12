@@ -1,20 +1,30 @@
-- ### ¡Hola! 👋🏼
+# ¡Hola! 👋🏼
 
+<div align="justify">
 My name is Fernando and I'm originally from Ecuador.
-
 I am an Electronic Engineer and I have experience with Web development, it is one of my biggest passions. 
-I have a master degree in Artificial Intelligence, I focused on computer vision. 
+I have a master degree in Artificial Intelligence, I focused on computer vision.
+</div>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FerjeffQ&show_icons=true&theme=dracula&count_private=true)
+<br/>
 
-### Get in touch around the Web 🌎:
+<a href="www.linkedin.com/in/fernando-j-quisaguano-paredes-958a17267"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-- 📺 I like to share knowledge on my [YouTube](https://www.youtube.com/@nerocode) channel 
-- 🐦 Writing ideas and useful information on [Twitter](https://twitter.com/Ferjeff11)
+ 
+# 📈 Stats
 
-### A little more 🤓
+<img
+  src="https://github-readme-stats.vercel.app/api?username=FerjeffQ&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FerjeffQ&&theme=react&&hide_border=true"
+/>
+<br/>
 
-- 🌱 Improve my skills of Data structures.
-- 💬 Ask me about Data Scientist and Machine Learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerJeffQ&hide_progress=true&theme=dracula)
+# Get in touch around the Web 🌎:
+
+<a href="https://www.youtube.com/@nerocode"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>  <a href="https://twitter.com/Ferjeff11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+
+
+
