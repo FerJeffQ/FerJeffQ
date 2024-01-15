@@ -78,7 +78,7 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
   src="https://github-readme-stats.vercel.app/api?username=FerjeffQ&show_icons=true&theme=react&&hide_border=false"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=FerjeffQ&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FerjeffQ&&theme=react&&hide_border=false"
 />
 <br/>
 
