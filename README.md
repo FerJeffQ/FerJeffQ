@@ -44,7 +44,7 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
   </tr>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+      <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" width="48" height="48" alt="AWS" />
       <br /><strong>AWS</strong>
     </td>
     <td align="center" height="108" width="108">
