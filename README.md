@@ -2,7 +2,7 @@
 
 <div align="justify">
  
-I'm originally from Ecuador.
+
 I am an Electronic Engineer and I have experience with Web development, it is one of my biggest passions. 
 I have a master degree in Artificial Intelligence, I focused on computer vision.
 </div>
