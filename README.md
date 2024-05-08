@@ -14,7 +14,6 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
 
 
 ### Stats ⚡️
-___________________________________________________________________
 
 <a href="https://git.io/streak-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FerJeffQ&show_icons=true&theme=tokyonight&hide_border=true"/>
