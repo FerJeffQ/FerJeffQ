@@ -12,6 +12,18 @@ I have a master degree in Artificial Intelligence, I focused on computer vision.
 <a href="https://www.linkedin.com/in/fernando-j-quisaguano-paredes-958a17267"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 
 
+
+### Stats ⚡️
+___________________________________________________________________
+
+<a href="https://git.io/streak-stats" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FerJeffQ&show_icons=true&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerJeffQ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+
 # 📈 Stats
 
 <img
