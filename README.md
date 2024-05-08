@@ -19,16 +19,7 @@ ___________________________________________________________________
 <a href="https://git.io/streak-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FerJeffQ&show_icons=true&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerJeffQ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
 
-
-# 📈 Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=FerjeffQ&show_icons=true&theme=react&&hide_border=false"
-/>
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=FerjeffQ&&theme=react&&hide_border=false"
 />
