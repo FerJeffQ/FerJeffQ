@@ -20,11 +20,9 @@ ___________________________________________________________________
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FerJeffQ&show_icons=true&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerjeffQ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=ferjeffQ&theme=tokyonight&hide_border=true&border_radius=1.5&date_format=j%2Fn%5B%2FY%5D&mode=weekly"/>
 </a>
 
-
-<br/>
 
 
 # Get in touch around the Web 🌎:
