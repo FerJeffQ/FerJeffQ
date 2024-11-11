@@ -3,8 +3,7 @@
 <div align="justify">
  
 
-I am an Electronic Engineer and I have experience with Web development, it is one of my biggest passions. 
-I have a master degree in Artificial Intelligence, I focused on computer vision.
+I am an Electronic Engineer. I have a master degree in Artificial Intelligence, I focused on computer vision.
 </div>
 
 <br/>
